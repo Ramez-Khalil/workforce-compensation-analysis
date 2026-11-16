@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "records": 747,
+  "active": 646,
+  "annual_salary_rate_total": 53779100,
+  "mean_salary": 71993.44042838019,
+  "occupation_counts": {
+    "Engineering": 125,
+    "Operations": 122,
+    "Administration": 121,
+    "Analyst": 135,
+    "Support": 125,
+    "Sales": 119
+  }
+}

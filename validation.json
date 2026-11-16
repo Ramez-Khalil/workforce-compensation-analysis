@@ -1,0 +1,35 @@
+{
+  "records": 747,
+  "seed": 3100,
+  "active": 646,
+  "salaryTotal": 53779100,
+  "meanSalary": 71993.44042838019,
+  "occupationCounts": [
+    [
+      "Administration",
+      121
+    ],
+    [
+      "Analyst",
+      135
+    ],
+    [
+      "Engineering",
+      125
+    ],
+    [
+      "Operations",
+      122
+    ],
+    [
+      "Sales",
+      119
+    ],
+    [
+      "Support",
+      125
+    ]
+  ],
+  "tests": "Passed independent counts, sums, means, reconciliations and salary-edit recalculation",
+  "errorScan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}
